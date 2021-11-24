@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "sql employee tracking database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cragar777/UOTSCS-Assignment12-Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cragar777/UOTSCS-Assignment12-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Cragar777/UOTSCS-Assignment12-Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
